@@ -5,7 +5,7 @@
 Frontend client
 -----------
 1. Make sure node is installed
-2. From src/frontend/src directory, run "npm start"
+2. From src/frontend directory, run "npm start" (or first "npm install" to generate dependencies)
 3. Browse to localhost:3000
 
 API server
