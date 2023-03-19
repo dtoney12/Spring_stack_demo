@@ -1,3 +1,9 @@
+This repo is composed of both a reactjs frontend client and a backend java api server.  The intended use is for demo and learning purposes only and is a step-for-step build based on the similarily named course from Amigoscode.   
+
+The frontend react files can be found in src/frontend.
+The backend java files can be found in src/main.
+
+
 ***********************************
 ***  IDE compile and run notes ****
 ***********************************
