@@ -26,4 +26,6 @@ CONNECT TO LOCAL POSTGRES THROUGH DOCKER PSQL
 	
 CONNECT TO AWS POSTGRES THROUGH DOCKER PSQL
 	docker run -it --rm postgres:alpine \                                            
-	psql -h awseb-e-rzrqv5u5ad-stack-awsebrdsdatabase-w6lvtuleqfvy.cpxdvaypud4n.us-east-1.rds.amazonaws.com -U amigoscode -d postgres
+	psql -h awseb-e-rzrqv5u5ad-stack-awsebrdsdatabase-w6lvtuleqfvy.cpxdvaypud4n.us-east-1.rds.amazonaws.com -U amigoscode -d postgre
+
+testings
