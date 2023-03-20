@@ -1,8 +1,8 @@
 import {useState, useEffect} from 'react';
-import {getAllStudents, deleteStudent, addNewStudent} from "./client";
-import {Avatar, Badge, Breadcrumb, Button, Empty, Layout, Menu, Spin, Table, Tag, Radio, Popconfirm} from 'antd';
+import {getAllStudents, deleteStudent} from "./client";
+import {Avatar, Badge, Breadcrumb, Button, Layout, Menu, Spin, Table, Tag, Radio, Popconfirm} from 'antd';
 import {
-    DesktopOutlined, DownloadOutlined,
+    DesktopOutlined,
     FileOutlined, LoadingOutlined,
     PieChartOutlined, PlusOutlined,
     TeamOutlined,
