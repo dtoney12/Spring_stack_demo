@@ -9,21 +9,18 @@ This repo is composed of both a reactjs frontend client and a backend java api s
 <img width="1440" alt="Screen Shot 2023-03-25 at 8 17 43 PM" src="https://user-images.githubusercontent.com/24409524/228086711-7213d708-4f23-4c23-9b14-985836eb89a9.png">
 
 
-The frontend react files can be found in src/frontend.
-The backend java files can be found in src/main.
-
 
 ***********************************
 ***  IDE compile and run notes ****
 ***********************************
 
-Frontend client
+Frontend client (The frontend react files can be found in src/frontend)
 -----------
 1. Make sure node is installed
 2. From src/frontend directory, run "npm start" (or first "npm install" to generate dependencies)
 3. Browse to localhost:3000
 
-API server
+API server (The backend java files can be found in src/main)
 -----------
 1. Make sure postgresql is running
 2. create database amigoscode
